@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"name": "proekt1",
+		"path": "."
+	},
+	{
+		"name": "images",
+		"path": "../../../OneDrive/Desktop/проект/images"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "proekt1",
+    "liveServer.settings.port": 5501
+  }
+}
